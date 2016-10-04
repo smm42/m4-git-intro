@@ -9,3 +9,9 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 5. In the `README.md` file, make an ordered list of what you ate for breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 7. Push changes up to GitHub
+
+List of things I ate for Breakfast:
+
+1. Oatmeal
+2. Brown Sugar
+3. Raisins
